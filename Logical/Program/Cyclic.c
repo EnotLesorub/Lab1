@@ -10,7 +10,7 @@ void _CYCLIC ProgramCyclic(void)
 	if (enable == 1)
 	{
 		count += 10;
-		if (count >= 10000 && count <= 15000)
+		if (count >= 5000 && count <= 7500)
 			speed = 5;
 		else
 			speed = 0;
