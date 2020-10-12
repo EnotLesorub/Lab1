@@ -1,8 +1,8 @@
-
 VAR
-
-END_VAR
-
-VAR CONSTANT
-
+	fb_controller : FB_regulator;
+	fb_motor_1 : FB_motor;
+	speed : REAL;
+	enable : REAL;
+	fb_motor_2 : FB_motor;
+	count : REAL;
 END_VAR
