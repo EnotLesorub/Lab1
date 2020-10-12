@@ -5,5 +5,8 @@
     <File Description="Exported data types">Types.typ</File>
     <File Description="Exported constants">Constants.var</File>
     <File Description="Exported functions and function blocks">Library.fun</File>
+    <File>FB_integrator.c</File>
+    <File>FB_motor.c</File>
+    <File>FB_regulator.c</File>
   </Files>
 </Library>
